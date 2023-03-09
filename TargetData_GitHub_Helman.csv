@@ -1,0 +1,708 @@
+"","Species","Age.Class","County","Season","Urban.Suburban","Agricultural.Open","Natural","PCR","MAT","ID"
+"1","Coyote",NA,"LOS ANGELES","Wet",91.83,5.96,2.21,"Negative",NA,1
+"2","Coyote",NA,"LOS ANGELES","Dry",20.39,21.87,57.74,"Negative",NA,2
+"3","Coyote","Juvenile","LOS ANGELES","Dry",4.56,9.79,85.65,"Negative",NA,3
+"4","Coyote","Adult","VENTURA","Dry",68.39,15.99,15.61,"Negative",NA,4
+"5","Coyote","Adult","ORANGE","Dry",77.98,21.15,0.86,"Negative",NA,5
+"6","Coyote","Adult","ORANGE","Dry",77.98,21.15,0.86,"Negative","Negative",6
+"7","Coyote","Juvenile","LOS ANGELES","Dry",95.74,3.5,0.75,"Negative",NA,7
+"8","Coyote","Juvenile","LOS ANGELES","Dry",89.45,7.48,3.07,"Negative",NA,8
+"9","Coyote","Juvenile","LOS ANGELES","Dry",56.15,15.23,28.62,"Negative",NA,9
+"10","Coyote","Juvenile","LOS ANGELES","Dry",95.24,3.96,0.81,"Negative",NA,10
+"11","Coyote","Juvenile","SAN BERNARDINO","Dry",86.48,7.9,5.62,"Negative",NA,11
+"12","Coyote","Adult","SAN BERNARDINO","Dry",86.48,7.9,5.62,"Negative",NA,12
+"13","Coyote","Juvenile","LOS ANGELES","Dry",95.74,3.5,0.75,"Negative",NA,13
+"14","Coyote","Adult","LOS ANGELES","Wet",66.14,15.05,18.81,"Negative",NA,14
+"15","Coyote","Adult","LOS ANGELES","Wet",76.76,7.42,15.82,"Negative",NA,15
+"16","Coyote","Adult","LOS ANGELES","Wet",36.33,26.18,37.49,"Negative",NA,16
+"17","Coyote","Adult","LOS ANGELES","Wet",36.39,9.35,54.26,"Negative",NA,17
+"18","Coyote","Adult","LOS ANGELES","Wet",92.14,7.79,0.07,"Negative",NA,18
+"19","Coyote","Adult","ORANGE","Wet",77.98,21.15,0.86,"Negative",NA,19
+"20","Coyote","Adult","LOS ANGELES","Wet",89.45,7.48,3.07,"Negative",NA,20
+"21","Coyote","Juvenile","LOS ANGELES","Dry",61.77,16.98,21.25,"Negative",NA,21
+"22","Coyote","Adult","LOS ANGELES","Wet",30.68,33.85,35.47,"Negative",NA,22
+"23","Coyote","Adult","SAN BERNARDINO","Wet",86.48,7.9,5.62,"Negative",NA,23
+"24","Coyote","Adult","ORANGE","Wet",77.98,21.15,0.86,"Negative",NA,24
+"25","Coyote","Adult","ORANGE","Wet",77.98,21.15,0.86,"Negative",NA,25
+"26","Coyote","Adult","LOS ANGELES","Wet",3,23.52,73.48,"Negative",NA,26
+"27","Coyote","Adult","LOS ANGELES","Wet",80.13,9.02,10.85,"Negative",NA,27
+"28","Coyote","Adult","VENTURA","Wet",8.56,37.5,53.95,"Negative",NA,28
+"29","Coyote","Adult","VENTURA","Wet",8.56,37.5,53.95,"Negative",NA,29
+"30","Coyote","Adult","LOS ANGELES","Wet",99.42,0.56,0.02,"Negative",NA,30
+"31","Coyote",NA,"LOS ANGELES","Dry",61.77,16.98,21.25,"Negative",NA,31
+"32","Coyote","Adult","LOS ANGELES","Wet",94.25,3.34,2.41,"Negative",NA,32
+"33","Coyote","Adult","LOS ANGELES","Wet",83,3.69,13.31,"Negative",NA,33
+"34","Coyote","Juvenile","LOS ANGELES","Dry",96.71,3.29,0,"Negative",NA,34
+"35","Coyote","Adult","LOS ANGELES","Dry",77.24,14.06,8.69,"Negative",NA,35
+"36","Coyote","Adult","LOS ANGELES","Dry",36.09,25.02,38.89,"Negative",NA,36
+"37","Coyote","Juvenile","LOS ANGELES","Dry",1.73,3.08,95.19,"Negative",NA,37
+"38","Coyote","Juvenile","LOS ANGELES","Dry",99.32,0.68,0,"Negative",NA,38
+"39","Coyote","Juvenile","ORANGE","Wet",77.98,21.15,0.86,"Negative",NA,39
+"40","Coyote",NA,"LOS ANGELES","Dry",61.77,16.98,21.25,"Negative",NA,40
+"41","Coyote","Adult","ORANGE","Dry",77.98,21.15,0.86,"Negative",NA,41
+"42","Coyote","Adult","LOS ANGELES","Wet",58.76,9.78,31.46,"Negative",NA,42
+"43","Coyote","Adult","LOS ANGELES","Wet",73.61,9.15,17.24,"Negative",NA,43
+"44","Coyote","Adult","LOS ANGELES","Wet",97.95,1.94,0.11,"Negative",NA,44
+"45","Coyote","Adult","LOS ANGELES","Wet",79.48,11.15,9.37,"Negative",NA,45
+"46","Coyote","Juvenile","LOS ANGELES","Wet",99.55,0.45,0,"Negative","Negative",46
+"47","Coyote","Adult","LOS ANGELES","Wet",89.45,7.48,3.07,"Negative",NA,47
+"48","Coyote","Adult","LOS ANGELES","Wet",89.45,7.48,3.07,"Negative",NA,48
+"49","Coyote",NA,"LOS ANGELES","Wet",97.37,2.39,0.23,"Negative",NA,49
+"50","Coyote","Juvenile","ORANGE","Wet",77.98,21.15,0.86,"Negative",NA,50
+"51","Coyote","Adult","VENTURA","Wet",19.8,41.28,38.92,"Negative","Negative",51
+"52","Coyote",NA,"LOS ANGELES","Wet",94.25,3.34,2.41,"Negative","Negative",52
+"53","Coyote","Adult","ORANGE","Wet",77.98,21.15,0.86,"Negative",NA,53
+"54","Coyote","Juvenile","SAN BERNARDINO","Wet",86.48,7.9,5.62,"Negative","Negative",54
+"55","Coyote","Juvenile","SAN BERNARDINO","Wet",86.48,7.9,5.62,"Negative",NA,55
+"56","Coyote","Adult","LOS ANGELES","Wet",89.45,7.48,3.07,"Negative",NA,56
+"57","Coyote",NA,"RIVERSIDE","Wet",56.62,17.82,25.57,"Negative",NA,57
+"58","Coyote",NA,"RIVERSIDE","Wet",56.62,17.82,25.57,"Negative",NA,58
+"59","Coyote",NA,"SAN BERNARDINO","Dry",86.48,7.9,5.62,"Negative",NA,59
+"60","Coyote",NA,"RIVERSIDE","Wet",56.62,17.82,25.57,"Negative",NA,60
+"61","Coyote",NA,"SAN BERNARDINO","Dry",86.48,7.9,5.62,"Negative",NA,61
+"62","Coyote",NA,"RIVERSIDE","Dry",56.62,17.82,25.57,"Negative",NA,62
+"63","Coyote",NA,"LOS ANGELES","Wet",96.49,1.57,1.94,"Negative",NA,63
+"64","Coyote",NA,"SAN BERNARDINO","Dry",86.48,7.9,5.62,"Negative",NA,64
+"65","Coyote",NA,"LOS ANGELES","Dry",97.22,2.28,0.5,"Negative",NA,65
+"66","Coyote",NA,"RIVERSIDE","Dry",56.62,17.82,25.57,"Negative",NA,66
+"67","Coyote",NA,"LOS ANGELES","Dry",94.25,3.34,2.41,"Negative",NA,67
+"68","Coyote",NA,"ORANGE","Dry",77.98,21.15,0.86,"Negative","Positive",68
+"69","Coyote",NA,"RIVERSIDE","Dry",56.62,17.82,25.57,"Negative",NA,69
+"70","Coyote","Adult","ORANGE","Dry",77.98,21.15,0.86,"Negative",NA,70
+"71","Coyote","Adult","SAN BERNARDINO","Dry",86.48,7.9,5.62,"Negative",NA,71
+"72","Coyote",NA,"SAN BERNARDINO","Wet",86.48,7.9,5.62,"Negative","Negative",72
+"73","Coyote",NA,"LOS ANGELES","Wet",89.45,7.48,3.07,"Negative","Negative",73
+"74","Coyote",NA,"RIVERSIDE","Dry",56.62,17.82,25.57,"Negative",NA,74
+"75","Coyote",NA,"LOS ANGELES","Wet",65.34,10.73,23.93,"Negative",NA,75
+"76","Coyote",NA,"RIVERSIDE","Wet",56.62,17.82,25.57,"Negative",NA,76
+"77","Coyote","Adult","VENTURA","Dry",59.88,13.96,26.16,"Negative",NA,77
+"78","Coyote",NA,"LOS ANGELES","Wet",89.45,7.48,3.07,"Negative",NA,78
+"79","Coyote",NA,"LOS ANGELES","Wet",3.78,19.14,77.08,"Negative",NA,79
+"80","Coyote","Adult","ORANGE","Dry",77.98,21.15,0.86,"Negative","Negative",80
+"81","Coyote",NA,"LOS ANGELES","Wet",96.49,1.57,1.94,"Negative","Negative",81
+"82","Coyote",NA,"LOS ANGELES","Dry",34.67,10.58,54.75,"Negative",NA,82
+"83","Coyote","Adult","LOS ANGELES","Dry",96.49,1.57,1.94,"Negative",NA,83
+"84","Coyote","Juvenile","LOS ANGELES","Dry",39.83,6.44,53.73,"Negative","Negative",84
+"85","Coyote","Adult","VENTURA","Dry",69.65,7.9,22.45,"Negative",NA,85
+"86","Coyote","Adult","VENTURA","Dry",68.37,13.59,18.04,"Negative","Positive",86
+"87","Coyote","Adult","VENTURA","Wet",68.37,13.59,18.04,"Negative","Negative",87
+"88","Coyote","Adult","LOS ANGELES","Wet",96.49,1.57,1.94,"Negative","Negative",88
+"89","Coyote","Adult","LOS ANGELES","Wet",89.45,7.48,3.07,"Negative",NA,89
+"90","Coyote","Adult","ORANGE","Wet",77.98,21.15,0.86,"Negative",NA,90
+"91","Coyote","Adult","ORANGE","Wet",77.98,21.15,0.86,"Negative",NA,91
+"92","Coyote","Juvenile","LOS ANGELES","Wet",71.67,13.45,14.87,"Negative","Negative",92
+"93","Coyote",NA,"LOS ANGELES","Wet",5.65,26.96,67.39,"Negative","Negative",93
+"94","Coyote","Juvenile","LOS ANGELES","Dry",65.47,24.78,9.75,"Negative","Negative",94
+"95","Coyote","Adult","LOS ANGELES","Wet",7.93,11.78,80.29,"Negative","Negative",95
+"96","Coyote","Juvenile","LOS ANGELES","Dry",4.7,12.32,82.99,"Negative","Negative",96
+"97","Coyote","Juvenile","LOS ANGELES","Dry",84.43,9.91,5.66,"Negative","Negative",97
+"98","Coyote",NA,"LOS ANGELES","Wet",64.06,20.23,15.71,"Negative",NA,98
+"99","Coyote","Adult","LOS ANGELES","Wet",86.75,10.42,2.83,"Negative","Negative",99
+"100","Coyote","Adult","LOS ANGELES","Wet",98.29,1.03,0.68,"Negative",NA,100
+"101","Coyote","Juvenile","LOS ANGELES","Wet",87.19,4.62,8.19,"Negative","Negative",101
+"102","Coyote","Adult","VENTURA","Dry",70.99,12.58,16.43,"Negative","Negative",102
+"103","Coyote","Adult","VENTURA","Dry",9.11,38.13,52.76,"Negative","Negative",103
+"104","Coyote","Adult","LOS ANGELES","Dry",83.88,9.99,6.14,"Positive",NA,104
+"105","Coyote","Juvenile","LOS ANGELES","Wet",96.1,3.44,0.47,"Positive",NA,105
+"106","Coyote","Adult","LOS ANGELES","Wet",89.45,7.48,3.07,"Positive","Positive",106
+"107","Coyote","Adult","VENTURA","Wet",1.84,22.8,75.37,"Positive",NA,107
+"108","Coyote",NA,"ORANGE","Dry",77.98,21.15,0.86,NA,"Negative",108
+"109","Coyote",NA,"VENTURA","Wet",25.59,40.23,34.18,NA,"Negative",109
+"110","Coyote",NA,"VENTURA","Wet",8.79,55.19,36.02,NA,"Negative",110
+"111","Coyote",NA,"VENTURA","Wet",25.04,55.58,19.38,NA,"Positive",111
+"112","Coyote",NA,"VENTURA","Wet",2.62,20.28,77.1,NA,"Positive",112
+"113","Coyote","Adult","LOS ANGELES","Wet",2.38,7.09,90.53,NA,"Positive",113
+"114","Coyote",NA,"LOS ANGELES","Wet",11.37,15.82,72.81,NA,"Negative",114
+"115","Coyote",NA,"VENTURA","Wet",7.36,42.69,49.96,NA,"Positive",115
+"116","Coyote",NA,"VENTURA","Wet",3.6,10.82,85.58,NA,"Positive",116
+"117","Coyote",NA,"VENTURA","Wet",7.68,63.31,29.01,NA,"Positive",117
+"118","Coyote",NA,"VENTURA","Wet",3.07,74.24,22.69,NA,"Positive",118
+"119","Coyote",NA,"VENTURA","Wet",3.84,71.62,24.55,NA,"Negative",119
+"120","Coyote",NA,"VENTURA","Wet",21.12,31.52,47.35,NA,"Positive",120
+"121","Coyote",NA,"LOS ANGELES","Dry",98.28,1.39,0.33,NA,"Negative",121
+"122","Coyote",NA,"LOS ANGELES","Dry",97.22,2.28,0.5,NA,"Positive",122
+"123","Coyote",NA,"LOS ANGELES","Dry",88.04,7.57,4.4,NA,"Negative",123
+"124","Coyote",NA,"LOS ANGELES","Dry",56.73,9.52,33.75,NA,"Negative",124
+"125","Coyote",NA,"LOS ANGELES","Dry",83.24,8.31,8.45,NA,"Positive",125
+"126","Coyote","Juvenile","VENTURA","Dry",59.19,14.03,26.77,NA,"Negative",126
+"127","Coyote",NA,"LOS ANGELES","Wet",62.13,14.62,23.25,NA,"Positive",127
+"128","Coyote","Juvenile","LOS ANGELES","Dry",66.5,13.26,20.24,NA,"Negative",128
+"129","Coyote","Juvenile","LOS ANGELES","Dry",45.04,16.37,38.59,NA,"Negative",129
+"130","Coyote",NA,"LOS ANGELES","Wet",79.26,16.59,4.15,NA,"Negative",130
+"131","Coyote","Juvenile","LOS ANGELES","Dry",36.94,12.63,50.42,NA,"Negative",131
+"132","Coyote","Juvenile","LOS ANGELES","Dry",71.1,16.51,12.39,NA,"Negative",132
+"133","Coyote","Adult","LOS ANGELES","Wet",92.89,6.89,0.22,NA,"Negative",133
+"134","Coyote","Adult","LOS ANGELES","Dry",98.13,1.85,0.02,NA,"Negative",134
+"135","Coyote","Adult","LOS ANGELES","Dry",4.93,8.44,86.63,NA,"Negative",135
+"136","Coyote","Juvenile","LOS ANGELES","Dry",43.19,18.7,38.1,NA,"Negative",136
+"137","Coyote","Adult","SAN BERNARDINO","Dry",56.44,4.66,38.89,NA,"Negative",137
+"138","Fox Squirrel",NA,"LOS ANGELES","Dry",98.75,1.25,0,"Negative","Positive",138
+"139","Fox Squirrel","Adult","LOS ANGELES","Dry",98.78,0.49,0.73,"Negative","Negative",139
+"140","Fox Squirrel","Adult","LOS ANGELES","Dry",98.38,1.62,0,"Negative","Negative",140
+"141","Fox Squirrel","Adult","LOS ANGELES","Dry",99.64,0.36,0,"Negative","Positive",141
+"142","Fox Squirrel","Adult","LOS ANGELES","Wet",76.71,17.15,6.14,"Negative","Negative",142
+"143","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",143
+"144","Fox Squirrel","Adult","LOS ANGELES","Wet",98.56,1.44,0,"Negative","Negative",144
+"145","Fox Squirrel","Adult","LOS ANGELES","Wet",99.1,0.36,0.54,"Negative","Negative",145
+"146","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",146
+"147","Fox Squirrel","Adult","LOS ANGELES","Wet",97.46,0.36,2.18,"Negative","Positive",147
+"148","Fox Squirrel","Adult","LOS ANGELES","Wet",99.28,0.72,0,"Negative","Negative",148
+"149","Fox Squirrel","Adult","LOS ANGELES","Wet",15.47,32.91,51.62,"Negative",NA,149
+"150","Fox Squirrel","Adult","LOS ANGELES","Wet",68.88,5.76,25.36,"Negative","Positive",150
+"151","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",151
+"152","Fox Squirrel","Adult","LOS ANGELES","Wet",93.15,4.5,2.34,"Negative","Negative",152
+"153","Fox Squirrel","Adult","LOS ANGELES","Dry",99.82,0.18,0,"Negative","Positive",153
+"154","Fox Squirrel","Adult","LOS ANGELES","Wet",98.92,1.08,0,"Negative",NA,154
+"155","Fox Squirrel","Adult","LOS ANGELES","Wet",64.57,28.78,6.65,"Negative","Positive",155
+"156","Fox Squirrel","Adult","LOS ANGELES","Wet",99.46,0.54,0,"Negative","Positive",156
+"157","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,157
+"158","Fox Squirrel","Adult","LOS ANGELES","Wet",65.41,6.85,27.75,"Negative",NA,158
+"159","Fox Squirrel","Adult","LOS ANGELES","Dry",79.32,20.68,0,"Negative",NA,159
+"160","Fox Squirrel","Adult","LOS ANGELES","Wet",99.82,0.18,0,"Negative","Positive",160
+"161","Fox Squirrel","Adult","LOS ANGELES","Wet",97.31,2.69,0,"Negative",NA,161
+"162","Fox Squirrel","Adult","LOS ANGELES","Wet",93.53,5.22,1.26,"Negative",NA,162
+"163","Fox Squirrel","Adult","LOS ANGELES","Wet",98.74,1.26,0,"Negative",NA,163
+"164","Fox Squirrel","Adult","LOS ANGELES","Wet",99.46,0.54,0,"Negative",NA,164
+"165","Fox Squirrel","Adult","LOS ANGELES","Wet",99.82,0.18,0,"Negative",NA,165
+"166","Fox Squirrel","Adult","LOS ANGELES","Wet",99.29,0.71,0,"Negative","Positive",166
+"167","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",167
+"168","Fox Squirrel","Adult","LOS ANGELES","Wet",96.75,1.81,1.44,"Negative","Negative",168
+"169","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Positive",169
+"170","Fox Squirrel","Adult","LOS ANGELES","Dry",47.4,4.67,47.94,"Negative",NA,170
+"171","Fox Squirrel","Adult","LOS ANGELES","Dry",97.64,1.99,0.36,"Negative","Positive",171
+"172","Fox Squirrel","Juvenile","LOS ANGELES","Dry",99.46,0.54,0,"Negative",NA,172
+"173","Fox Squirrel","Adult","LOS ANGELES","Dry",89.95,7.72,2.33,"Negative",NA,173
+"174","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,174
+"175","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,175
+"176","Fox Squirrel","Adult","LOS ANGELES","Wet",99.82,0.18,0,"Negative","Negative",176
+"177","Fox Squirrel","Adult","LOS ANGELES","Dry",99.46,0.54,0,"Negative","Positive",177
+"178","Fox Squirrel","Adult","LOS ANGELES","Dry",98.74,1.26,0,"Negative",NA,178
+"179","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,179
+"180","Fox Squirrel","Adult","LOS ANGELES","Dry",92.96,6.5,0.54,"Negative",NA,180
+"181","Fox Squirrel","Adult","LOS ANGELES","Dry",99.45,0.36,0.18,"Negative",NA,181
+"182","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Positive",182
+"183","Fox Squirrel","Juvenile","LOS ANGELES","Dry",37.34,54.94,7.72,"Negative","Positive",183
+"184","Fox Squirrel","Juvenile","LOS ANGELES","Dry",80.32,7.51,12.16,"Negative",NA,184
+"185","Fox Squirrel","Juvenile","LOS ANGELES","Dry",100,0,0,"Negative","Positive",185
+"186","Fox Squirrel","Juvenile","LOS ANGELES","Dry",99.82,0.18,0,"Negative",NA,186
+"187","Fox Squirrel","Adult","LOS ANGELES","Wet",96.04,2.7,1.26,"Negative",NA,187
+"188","Fox Squirrel","Adult","LOS ANGELES","Dry",87.97,11.31,0.72,"Negative","Positive",188
+"189","Fox Squirrel","Adult","LOS ANGELES","Dry",93.72,4.13,2.15,"Negative","Positive",189
+"190","Fox Squirrel","Adult","VENTURA","Dry",47.57,3.24,49.19,"Negative",NA,190
+"191","Fox Squirrel","Juvenile","LOS ANGELES","Dry",97.46,2.54,0,"Negative",NA,191
+"192","Fox Squirrel","Adult","LOS ANGELES","Dry",77.18,2.9,19.92,"Negative",NA,192
+"193","Fox Squirrel","Juvenile","LOS ANGELES","Wet",99.82,0.18,0,"Negative",NA,193
+"194","Fox Squirrel","Juvenile","LOS ANGELES","Wet",99.64,0.36,0,"Negative",NA,194
+"195","Fox Squirrel",NA,"LOS ANGELES","Wet",99.46,0.54,0,"Negative","Positive",195
+"196","Fox Squirrel","Adult","LOS ANGELES","Wet",96.61,3.39,0,"Negative",NA,196
+"197","Fox Squirrel","Juvenile","LOS ANGELES","Wet",91.73,8.09,0.18,"Negative","Positive",197
+"198","Fox Squirrel","Adult","LOS ANGELES","Wet",99.46,0.36,0.18,"Negative","Positive",198
+"199","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",199
+"200","Fox Squirrel","Adult","LOS ANGELES","Wet",78.6,14.03,7.37,"Negative","Positive",200
+"201","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",201
+"202","Fox Squirrel","Adult","LOS ANGELES","Wet",99.82,0.18,0,"Negative",NA,202
+"203","Fox Squirrel","Adult","LOS ANGELES","Wet",63.13,21.22,15.65,"Negative",NA,203
+"204","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",204
+"205","Fox Squirrel","Adult","LOS ANGELES","Wet",98.19,1.62,0.18,"Negative",NA,205
+"206","Fox Squirrel","Adult","LOS ANGELES","Wet",97.31,2.69,0,"Negative",NA,206
+"207","Fox Squirrel",NA,"LOS ANGELES","Wet",82.32,13.39,4.29,"Negative","Positive",207
+"208","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",208
+"209","Fox Squirrel","Adult","VENTURA","Wet",55.64,20.91,23.45,"Negative",NA,209
+"210","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",210
+"211","Fox Squirrel","Adult","LOS ANGELES","Wet",99.82,0.18,0,"Negative",NA,211
+"212","Fox Squirrel","Adult","LOS ANGELES","Wet",98.03,1.97,0,"Negative",NA,212
+"213","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,213
+"214","Fox Squirrel","Adult","LOS ANGELES","Dry",99.82,0.18,0,"Negative",NA,214
+"215","Fox Squirrel","Adult","LOS ANGELES","Dry",99.1,0.72,0.18,"Negative","Positive",215
+"216","Fox Squirrel","Adult","LOS ANGELES","Dry",98.56,1.44,0,"Negative","Positive",216
+"217","Fox Squirrel","Adult","LOS ANGELES","Dry",99.28,0.72,0,"Negative",NA,217
+"218","Fox Squirrel",NA,"LOS ANGELES","Dry",94.28,5.72,0,"Negative",NA,218
+"219","Fox Squirrel","Adult","LOS ANGELES","Dry",96.23,3.77,0,"Negative",NA,219
+"220","Fox Squirrel","Adult","LOS ANGELES","Dry",99.46,0.54,0,"Negative",NA,220
+"221","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,221
+"222","Fox Squirrel",NA,"LOS ANGELES","Wet",95.86,4.14,0,"Negative","Positive",222
+"223","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Positive",223
+"224","Fox Squirrel","Adult","LOS ANGELES","Dry",99.64,0.36,0,"Negative","Positive",224
+"225","Fox Squirrel","Adult","LOS ANGELES","Dry",89.17,7.22,3.61,"Negative","Negative",225
+"226","Fox Squirrel","Juvenile","LOS ANGELES","Wet",98.38,0,1.62,"Negative",NA,226
+"227","Fox Squirrel","Adult","LOS ANGELES","Wet",95.84,4.16,0,"Negative",NA,227
+"228","Fox Squirrel","Juvenile","LOS ANGELES","Dry",55.07,8.51,36.41,"Negative",NA,228
+"229","Fox Squirrel","Juvenile","LOS ANGELES","Dry",4.7,35.26,60.04,"Negative",NA,229
+"230","Fox Squirrel","Juvenile","LOS ANGELES","Dry",99.1,0.9,0,"Negative",NA,230
+"231","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",231
+"232","Fox Squirrel","Adult","LOS ANGELES","Dry",96.18,3.82,0,"Negative","Positive",232
+"233","Fox Squirrel","Adult","LOS ANGELES","Dry",99.46,0.54,0,"Negative","Positive",233
+"234","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,234
+"235","Fox Squirrel","Adult","LOS ANGELES","Dry",95.88,4.12,0,"Negative",NA,235
+"236","Fox Squirrel",NA,"LOS ANGELES","Wet",98.37,1.63,0,"Negative",NA,236
+"237","Fox Squirrel",NA,"LOS ANGELES","Wet",37.39,6.8,55.81,"Negative",NA,237
+"238","Fox Squirrel","Adult","LOS ANGELES","Wet",88.67,11.33,0,"Negative",NA,238
+"239","Fox Squirrel","Adult","LOS ANGELES","Wet",98.92,1.08,0,"Negative",NA,239
+"240","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,240
+"241","Fox Squirrel",NA,"LOS ANGELES","Wet",97.67,2.33,0,"Negative",NA,241
+"242","Fox Squirrel",NA,"LOS ANGELES","Wet",94.98,5.02,0,"Negative",NA,242
+"243","Fox Squirrel",NA,"LOS ANGELES","Wet",89.64,9.46,0.89,"Negative",NA,243
+"244","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,244
+"245","Fox Squirrel","Adult","LOS ANGELES","Wet",66.43,19.68,13.9,"Negative",NA,245
+"246","Fox Squirrel","Adult","LOS ANGELES","Wet",85.9,7.41,6.69,"Negative","Negative",246
+"247","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,247
+"248","Fox Squirrel","Adult","LOS ANGELES","Wet",94.59,5.41,0,"Negative","Negative",248
+"249","Fox Squirrel","Adult","LOS ANGELES","Wet",97.84,2.16,0,"Negative","Negative",249
+"250","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",250
+"251","Fox Squirrel","Adult","LOS ANGELES","Wet",94.98,3.05,1.97,"Negative",NA,251
+"252","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",252
+"253","Fox Squirrel","Adult","LOS ANGELES","Wet",99.82,0.18,0,"Negative","Negative",253
+"254","Fox Squirrel","Adult","LOS ANGELES","Dry",99.46,0.54,0,"Negative","Positive",254
+"255","Fox Squirrel","Adult","LOS ANGELES","Dry",16.1,32.2,51.7,"Negative","Negative",255
+"256","Fox Squirrel","Adult","LOS ANGELES","Dry",98.91,1.09,0,"Negative","Negative",256
+"257","Fox Squirrel","Adult","LOS ANGELES","Dry",98.21,1.79,0,"Negative","Negative",257
+"258","Fox Squirrel","Adult","LOS ANGELES","Dry",29.26,10.23,60.5,"Negative","Positive",258
+"259","Fox Squirrel","Juvenile","LOS ANGELES","Dry",99.28,0.72,0,"Negative","Positive",259
+"260","Fox Squirrel","Adult","LOS ANGELES","Dry",87.99,11.47,0.54,"Negative","Negative",260
+"261","Fox Squirrel","Adult","LOS ANGELES","Dry",96.22,1.44,2.34,"Negative","Negative",261
+"262","Fox Squirrel","Juvenile","LOS ANGELES","Dry",99.82,0.18,0,"Negative","Negative",262
+"263","Fox Squirrel","Adult","LOS ANGELES","Wet",99.82,0,0.18,"Negative","Positive",263
+"264","Fox Squirrel","Adult","LOS ANGELES","Dry",83.33,9.68,6.99,"Negative","Positive",264
+"265","Fox Squirrel","Adult","LOS ANGELES","Wet",73.52,12.88,13.6,"Negative","Positive",265
+"266","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,266
+"267","Fox Squirrel",NA,"LOS ANGELES","Wet",100,0,0,"Negative",NA,267
+"268","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,268
+"269","Fox Squirrel","Juvenile","LOS ANGELES","Wet",96.75,0.36,2.89,"Negative",NA,269
+"270","Fox Squirrel","Adult","LOS ANGELES","Wet",99.28,0.72,0,"Negative",NA,270
+"271","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",271
+"272","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,272
+"273","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,273
+"274","Fox Squirrel","Juvenile","VENTURA","Wet",93.01,4.84,2.15,"Negative",NA,274
+"275","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,275
+"276","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,276
+"277","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,277
+"278","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,278
+"279","Fox Squirrel","Juvenile","LOS ANGELES","Wet",100,0,0,"Negative",NA,279
+"280","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Positive",280
+"281","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Positive",281
+"282","Fox Squirrel","Adult","LOS ANGELES","Dry",71.2,19.75,9.06,"Negative",NA,282
+"283","Fox Squirrel","Juvenile","LOS ANGELES","Dry",96.93,0.18,2.89,"Negative",NA,283
+"284","Fox Squirrel","Adult","LOS ANGELES","Dry",99.64,0.36,0,"Negative",NA,284
+"285","Fox Squirrel","Adult","LOS ANGELES","Wet",87.91,11.19,0.9,"Negative",NA,285
+"286","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,NA,"Positive",286
+"287","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,NA,"Positive",287
+"288","Fox Squirrel","Adult","LOS ANGELES","Dry",88.43,10.85,0.72,NA,"Positive",288
+"289","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,NA,"Negative",289
+"290","Fox Squirrel","Adult","LOS ANGELES","Dry",94.79,2.51,2.69,NA,"Negative",290
+"291","Fox Squirrel","Adult","LOS ANGELES","Wet",98.74,1.08,0.18,NA,"Negative",291
+"292","Fox Squirrel","Adult","LOS ANGELES","Wet",99.64,0.18,0.18,NA,"Positive",292
+"293","Fox Squirrel","Adult","LOS ANGELES","Wet",94.11,5.89,0,NA,"Positive",293
+"294","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,NA,"Negative",294
+"295","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,NA,"Positive",295
+"296","Fox Squirrel","Adult","LOS ANGELES","Wet",94,6,0,NA,"Positive",296
+"297","Fox Squirrel","Adult","LOS ANGELES","Wet",99.64,0.36,0,NA,"Negative",297
+"298","Fox Squirrel","Adult","VENTURA","Wet",89.15,10.85,0,NA,"Positive",298
+"299","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,NA,"Positive",299
+"300","Fox Squirrel","Adult","LOS ANGELES","Dry",99.64,0.36,0,NA,"Negative",300
+"301","Fox Squirrel",NA,"LOS ANGELES","Wet",91.2,8.08,0.72,NA,"Positive",301
+"302","Fox Squirrel","Juvenile","LOS ANGELES","Wet",100,0,0,NA,"Positive",302
+"303","Fox Squirrel","Adult","LOS ANGELES","Dry",94.62,4.84,0.54,NA,"Positive",303
+"304","Fox Squirrel",NA,"LOS ANGELES","Dry",100,0,0,NA,"Positive",304
+"305","Fox Squirrel","Adult","LOS ANGELES","Dry",99.28,0.72,0,NA,"Positive",305
+"306","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,NA,"Positive",306
+"307","Fox Squirrel","Juvenile","LOS ANGELES","Wet",94.24,5.4,0.36,NA,"Negative",307
+"308","Fox Squirrel","Adult","LOS ANGELES","Wet",99.28,0.72,0,NA,"Negative",308
+"309","Fox Squirrel","Adult","LOS ANGELES","Dry",79.53,19.21,1.26,NA,"Positive",309
+"310","Fox Squirrel","Juvenile","LOS ANGELES","Wet",97.63,2.37,0,NA,"Negative",310
+"311","Fox Squirrel","Adult","LOS ANGELES","Dry",99.64,0.36,0,NA,"Positive",311
+"312","Fox Squirrel","Adult","LOS ANGELES","Wet",100,0,0,NA,"Positive",312
+"313","Fox Squirrel",NA,"LOS ANGELES","Wet",100,0,0,NA,"Negative",313
+"314","Fox Squirrel","Adult","LOS ANGELES","Wet",95.33,1.62,3.05,NA,"Negative",314
+"315","Fox Squirrel","Adult","LOS ANGELES","Wet",99.82,0.18,0,NA,"Positive",315
+"316","Fox Squirrel","Adult","VENTURA","Dry",98.38,1.62,0,NA,"Positive",316
+"317","Fox Squirrel","Juvenile","LOS ANGELES","Dry",100,0,0,NA,"Positive",317
+"318","Fox Squirrel","Adult","LOS ANGELES","Dry",86.1,11.19,2.71,NA,"Negative",318
+"319","Fox Squirrel","Adult","LOS ANGELES","Dry",96.41,3.59,0,NA,"Negative",319
+"320","Fox Squirrel","Adult","LOS ANGELES","Dry",95.86,3.96,0.18,NA,"Negative",320
+"321","Fox Squirrel",NA,"LOS ANGELES","Dry",53.94,4.84,41.22,NA,"Negative",321
+"322","Fox Squirrel","Adult","LOS ANGELES","Dry",3.06,7.55,89.39,NA,"Negative",322
+"323","Fox Squirrel","Adult","LOS ANGELES","Dry",100,0,0,NA,"Negative",323
+"324","Fox Squirrel","Juvenile","LOS ANGELES","Dry",99.82,0.18,0,NA,"Negative",324
+"325","Northern Raccoon","Adult","LOS ANGELES","Wet",88.75,7.11,4.14,"Negative",NA,325
+"326","Northern Raccoon","Adult","LOS ANGELES","Wet",88.75,7.11,4.14,"Negative",NA,326
+"327","Northern Raccoon","Adult","LOS ANGELES","Wet",90.16,5.44,4.4,"Negative",NA,327
+"328","Northern Raccoon","Adult","LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,328
+"329","Northern Raccoon",NA,"LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,329
+"330","Northern Raccoon","Adult","LOS ANGELES","Wet",99.59,0.09,0.32,"Negative",NA,330
+"331","Northern Raccoon","Adult","LOS ANGELES","Wet",99.59,0.09,0.32,"Negative",NA,331
+"332","Northern Raccoon","Adult","LOS ANGELES","Dry",90.16,5.44,4.4,"Negative",NA,332
+"333","Northern Raccoon","Adult","LOS ANGELES","Wet",99.78,0.22,0,"Negative","Positive",333
+"334","Northern Raccoon","Adult","LOS ANGELES","Wet",12.94,18.96,68.1,"Negative",NA,334
+"335","Northern Raccoon","Adult","LOS ANGELES","Wet",96.9,2.69,0.41,"Negative",NA,335
+"336","Northern Raccoon","Adult","LOS ANGELES","Wet",58.01,26.46,15.53,"Negative",NA,336
+"337","Northern Raccoon","Adult","LOS ANGELES","Wet",52.07,30.09,17.84,"Negative",NA,337
+"338","Northern Raccoon","Adult","LOS ANGELES","Wet",62.44,19.7,17.86,"Negative",NA,338
+"339","Northern Raccoon","Juvenile","LOS ANGELES","Wet",100,0,0,"Negative",NA,339
+"340","Northern Raccoon","Juvenile","LOS ANGELES","Wet",95.45,3.29,1.26,"Negative","Negative",340
+"341","Northern Raccoon","Juvenile","LOS ANGELES","Wet",54.54,27.35,18.11,"Negative","Negative",341
+"342","Northern Raccoon","Adult","LOS ANGELES","Wet",77.43,13.44,9.13,"Negative",NA,342
+"343","Northern Raccoon","Juvenile","LOS ANGELES","Wet",98.69,0.9,0.41,"Negative","Negative",343
+"344","Northern Raccoon","Adult","LOS ANGELES","Dry",87.49,9.86,2.66,"Negative","Negative",344
+"345","Northern Raccoon","Adult","LOS ANGELES","Dry",39.89,9.16,50.94,"Negative",NA,345
+"346","Northern Raccoon","Adult","LOS ANGELES","Dry",81.17,14.88,3.96,"Negative","Positive",346
+"347","Northern Raccoon","Juvenile","LOS ANGELES","Dry",98.11,1.12,0.76,"Negative",NA,347
+"348","Northern Raccoon","Juvenile","LOS ANGELES","Dry",99.59,0.09,0.32,"Negative",NA,348
+"349","Northern Raccoon","Adult","LOS ANGELES","Dry",99.59,0.09,0.32,"Negative",NA,349
+"350","Northern Raccoon","Adult","LOS ANGELES","Dry",99.78,0.22,0,"Negative","Negative",350
+"351","Northern Raccoon","Adult","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,351
+"352","Northern Raccoon","Juvenile","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,352
+"353","Northern Raccoon","Juvenile","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,353
+"354","Northern Raccoon","Adult","LOS ANGELES","Wet",82.46,11.6,5.94,"Negative","Negative",354
+"355","Northern Raccoon","Juvenile","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,355
+"356","Northern Raccoon","Adult","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,356
+"357","Northern Raccoon","Juvenile","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,357
+"358","Northern Raccoon","Juvenile","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,358
+"359","Northern Raccoon","Adult","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,359
+"360","Northern Raccoon","Juvenile","ORANGE","Dry",96.08,1.8,2.12,"Negative",NA,360
+"361","Northern Raccoon","Adult","LOS ANGELES","Wet",78.2,16.98,4.82,"Negative","Positive",361
+"362","Northern Raccoon","Adult","LOS ANGELES","Wet",24.17,40.88,34.95,"Negative",NA,362
+"363","Northern Raccoon","Adult","LOS ANGELES","Wet",99.28,0.59,0.14,"Negative","Positive",363
+"364","Northern Raccoon","Adult","LOS ANGELES","Wet",20.68,29.36,49.96,"Negative","Positive",364
+"365","Northern Raccoon","Juvenile","LOS ANGELES","Wet",89.55,4.77,5.68,"Negative","Negative",365
+"366","Northern Raccoon","Adult","LOS ANGELES","Wet",82.83,17.12,0.04,"Negative","Positive",366
+"367","Northern Raccoon","Adult","LOS ANGELES","Wet",99.73,0,0.27,"Negative","Negative",367
+"368","Northern Raccoon","Adult","LOS ANGELES","Wet",77.24,13.47,9.28,"Negative","Positive",368
+"369","Northern Raccoon","Adult","LOS ANGELES","Wet",72.18,24.66,3.16,"Negative","Negative",369
+"370","Northern Raccoon","Adult","LOS ANGELES","Wet",90.16,5.44,4.4,"Negative",NA,370
+"371","Northern Raccoon","Adult","VENTURA","Wet",90.65,6.7,2.65,"Negative",NA,371
+"372","Northern Raccoon","Adult","LOS ANGELES","Wet",60.84,24.78,14.39,"Negative","Negative",372
+"373","Northern Raccoon","Juvenile","LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,373
+"374","Northern Raccoon","Juvenile","LOS ANGELES","Wet",99.6,0.4,0,"Negative",NA,374
+"375","Northern Raccoon","Adult","LOS ANGELES","Wet",76.29,18.31,5.4,"Negative","Negative",375
+"376","Northern Raccoon","Adult","LOS ANGELES","Wet",90.16,5.44,4.4,"Negative",NA,376
+"377","Northern Raccoon","Adult","LOS ANGELES","Dry",67.93,5.58,26.5,"Negative","Negative",377
+"378","Northern Raccoon","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Positive",378
+"379","Northern Raccoon","Juvenile","LOS ANGELES","Dry",99.78,0.22,0,"Negative","Positive",379
+"380","Northern Raccoon","Adult","LOS ANGELES","Wet",75.33,21.79,2.88,"Negative",NA,380
+"381","Northern Raccoon","Juvenile","LOS ANGELES","Dry",99.33,0.67,0,"Negative",NA,381
+"382","Northern Raccoon","Juvenile","LOS ANGELES","Dry",99.33,0.67,0,"Negative",NA,382
+"383","Northern Raccoon","Adult","LOS ANGELES","Dry",72.8,4.72,22.48,"Negative",NA,383
+"384","Northern Raccoon","Adult","LOS ANGELES","Dry",97.67,2.33,0,"Negative",NA,384
+"385","Northern Raccoon","Adult","LOS ANGELES","Dry",99.59,0.09,0.32,"Negative",NA,385
+"386","Northern Raccoon","Adult","LOS ANGELES","Wet",63.89,32.6,3.51,"Negative","Negative",386
+"387","Northern Raccoon","Adult","LOS ANGELES","Wet",72.8,4.72,22.48,"Negative",NA,387
+"388","Northern Raccoon","Adult","LOS ANGELES","Wet",99.69,0.31,0,"Negative",NA,388
+"389","Northern Raccoon","Adult","LOS ANGELES","Wet",75.78,11.57,12.65,"Negative",NA,389
+"390","Northern Raccoon","Juvenile","LOS ANGELES","Wet",99.73,0.27,0,"Negative",NA,390
+"391","Northern Raccoon","Adult","LOS ANGELES","Wet",99.59,0.41,0,"Negative",NA,391
+"392","Northern Raccoon","Adult","LOS ANGELES","Wet",98.38,1.35,0.27,"Negative",NA,392
+"393","Northern Raccoon","Adult","LOS ANGELES","Wet",98.74,1.26,0,"Negative",NA,393
+"394","Northern Raccoon","Adult","LOS ANGELES","Wet",49.73,35.05,15.23,"Negative","Negative",394
+"395","Northern Raccoon","Adult","LOS ANGELES","Wet",80.9,9.64,9.46,"Negative",NA,395
+"396","Northern Raccoon","Adult","LOS ANGELES","Wet",79.97,17.01,3.02,"Negative","Positive",396
+"397","Northern Raccoon","Adult","LOS ANGELES","Wet",44.88,35.11,20.01,"Negative","Positive",397
+"398","Northern Raccoon","Adult","LOS ANGELES","Wet",69.28,19.52,11.2,"Negative",NA,398
+"399","Northern Raccoon","Adult","LOS ANGELES","Wet",83.75,15.21,1.04,"Negative","Positive",399
+"400","Northern Raccoon","Adult","LOS ANGELES","Wet",98.96,1.04,0,"Negative","Negative",400
+"401","Northern Raccoon","Adult","LOS ANGELES","Wet",98.07,1.89,0.04,"Negative","Negative",401
+"402","Northern Raccoon","Adult","LOS ANGELES","Wet",82.99,15.71,1.31,"Negative","Negative",402
+"403","Northern Raccoon","Adult","LOS ANGELES","Wet",97.03,2.61,0.36,"Negative","Negative",403
+"404","Northern Raccoon","Adult","LOS ANGELES","Wet",92.18,4.95,2.88,"Negative","Negative",404
+"405","Northern Raccoon","Adult","LOS ANGELES","Wet",90.74,7.33,1.93,"Negative","Negative",405
+"406","Northern Raccoon","Adult","LOS ANGELES","Wet",98.96,0.95,0.09,"Negative",NA,406
+"407","Northern Raccoon",NA,"LOS ANGELES","Wet",96.89,3.11,0,"Negative","Positive",407
+"408","Northern Raccoon","Adult","LOS ANGELES","Wet",99.41,0.59,0,"Negative",NA,408
+"409","Northern Raccoon","Juvenile","LOS ANGELES","Wet",61.35,13.34,25.31,"Negative","Negative",409
+"410","Northern Raccoon","Adult","LOS ANGELES","Wet",73.64,4.06,22.31,"Negative","Negative",410
+"411","Northern Raccoon","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",411
+"412","Northern Raccoon","Adult","LOS ANGELES","Wet",88.57,5.89,5.53,"Negative","Negative",412
+"413","Northern Raccoon","Adult","LOS ANGELES","Wet",98.38,1.58,0.05,"Negative",NA,413
+"414","Northern Raccoon","Adult","LOS ANGELES","Wet",65.68,25.99,8.33,"Negative",NA,414
+"415","Northern Raccoon","Adult","LOS ANGELES","Wet",98.02,1.94,0.05,"Negative",NA,415
+"416","Northern Raccoon","Adult","LOS ANGELES","Wet",96.3,3.47,0.23,"Negative","Negative",416
+"417","Northern Raccoon","Adult","LOS ANGELES","Wet",93.08,5.08,1.84,"Negative",NA,417
+"418","Northern Raccoon","Adult","LOS ANGELES","Wet",99.51,0.49,0,"Negative",NA,418
+"419","Northern Raccoon","Adult","LOS ANGELES","Wet",97.53,2.43,0.04,"Negative","Negative",419
+"420","Northern Raccoon","Adult","LOS ANGELES","Wet",97.7,2.03,0.27,"Negative",NA,420
+"421","Northern Raccoon","Adult","LOS ANGELES","Wet",98.79,1.21,0,"Negative","Positive",421
+"422","Northern Raccoon","Adult","LOS ANGELES","Wet",98.51,1.49,0,"Negative","Positive",422
+"423","Northern Raccoon","Adult","LOS ANGELES","Wet",99.15,0.76,0.09,"Negative",NA,423
+"424","Northern Raccoon","Adult","LOS ANGELES","Wet",87.83,6.22,5.95,"Negative",NA,424
+"425","Northern Raccoon","Juvenile","LOS ANGELES","Wet",56.17,32.45,11.38,"Negative",NA,425
+"426","Northern Raccoon","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",426
+"427","Northern Raccoon","Adult","LOS ANGELES","Wet",97.37,2.4,0.23,"Negative","Negative",427
+"428","Northern Raccoon","Adult","LOS ANGELES","Wet",59.89,34.62,5.49,"Negative","Negative",428
+"429","Northern Raccoon","Adult","LOS ANGELES","Wet",76.31,4.81,18.88,"Negative",NA,429
+"430","Northern Raccoon","Adult","LOS ANGELES","Wet",69.39,26.17,4.44,"Negative",NA,430
+"431","Northern Raccoon","Adult","LOS ANGELES","Wet",58.57,19.43,22,"Negative",NA,431
+"432","Northern Raccoon","Adult","LOS ANGELES","Wet",98.47,1.53,0,"Negative","Positive",432
+"433","Northern Raccoon","Adult","LOS ANGELES","Wet",97.84,2.16,0,"Negative","Negative",433
+"434","Northern Raccoon","Adult","LOS ANGELES","Wet",99.37,0.63,0,"Negative","Negative",434
+"435","Northern Raccoon","Adult","LOS ANGELES","Wet",90.06,6.43,3.51,"Negative","Negative",435
+"436","Northern Raccoon","Adult","LOS ANGELES","Wet",61.25,29.64,9.12,"Negative",NA,436
+"437","Northern Raccoon","Adult","LOS ANGELES","Wet",80.19,12.07,7.74,"Negative","Negative",437
+"438","Northern Raccoon","Adult","LOS ANGELES","Wet",96.17,2.61,1.22,"Negative","Negative",438
+"439","Northern Raccoon","Adult","LOS ANGELES","Wet",97.8,2.2,0,"Negative","Negative",439
+"440","Northern Raccoon","Adult","LOS ANGELES","Wet",80.64,14.06,5.3,"Negative","Negative",440
+"441","Northern Raccoon","Adult","LOS ANGELES","Wet",98.88,1.12,0,"Negative","Negative",441
+"442","Northern Raccoon","Adult","LOS ANGELES","Wet",96.62,3.38,0,"Negative","Negative",442
+"443","Northern Raccoon","Adult","LOS ANGELES","Wet",99.19,0.81,0,"Negative","Negative",443
+"444","Northern Raccoon","Adult","LOS ANGELES","Wet",92.39,5.36,2.25,"Negative",NA,444
+"445","Northern Raccoon","Adult","LOS ANGELES","Wet",85,12.26,2.74,"Negative",NA,445
+"446","Northern Raccoon","Adult","LOS ANGELES","Wet",95.31,3.56,1.13,"Negative","Positive",446
+"447","Northern Raccoon","Adult","LOS ANGELES","Wet",39.32,15.29,45.39,"Negative","Negative",447
+"448","Northern Raccoon","Adult","LOS ANGELES","Wet",81.24,11.77,6.99,"Negative","Positive",448
+"449","Northern Raccoon","Adult","LOS ANGELES","Dry",93.7,3.83,2.48,"Negative","Positive",449
+"450","Northern Raccoon","Adult","LOS ANGELES","Dry",94.38,4.76,0.85,"Negative","Negative",450
+"451","Northern Raccoon","Adult","LOS ANGELES","Dry",97.93,1.49,0.59,"Negative","Negative",451
+"452","Northern Raccoon","Adult","LOS ANGELES","Dry",77.85,18.99,3.16,"Negative","Negative",452
+"453","Northern Raccoon","Adult","LOS ANGELES","Dry",71.18,14.93,13.89,"Negative","Negative",453
+"454","Northern Raccoon","Juvenile","LOS ANGELES","Dry",70.63,25.01,4.36,"Negative","Negative",454
+"455","Northern Raccoon","Adult","LOS ANGELES","Dry",68.98,6.35,24.67,"Negative","Negative",455
+"456","Northern Raccoon","Adult","LOS ANGELES","Dry",99.1,0.54,0.36,"Negative","Negative",456
+"457","Northern Raccoon","Adult","LOS ANGELES","Dry",99.95,0,0.05,"Negative","Positive",457
+"458","Northern Raccoon","Adult","LOS ANGELES","Dry",63.24,6.35,30.41,"Negative","Negative",458
+"459","Northern Raccoon","Juvenile","LOS ANGELES","Dry",100,0,0,"Negative","Negative",459
+"460","Northern Raccoon","Juvenile","LOS ANGELES","Dry",99.95,0,0.05,"Negative","Negative",460
+"461","Northern Raccoon","Juvenile","LOS ANGELES","Dry",99.95,0,0.05,"Negative","Negative",461
+"462","Northern Raccoon","Adult","LOS ANGELES","Dry",32.21,13.48,54.31,"Negative","Positive",462
+"463","Northern Raccoon","Juvenile","VENTURA","Wet",9.59,22.66,67.75,"Negative","Negative",463
+"464","Northern Raccoon","Adult","VENTURA","Dry",14.49,0.22,85.28,"Negative",NA,464
+"465","Northern Raccoon","Adult","VENTURA","Dry",14.72,2.2,83.07,"Negative","Negative",465
+"466","Northern Raccoon","Adult","VENTURA","Dry",9.59,22.66,67.75,"Negative","Negative",466
+"467","Northern Raccoon","Adult","VENTURA","Dry",9.59,22.66,67.75,"Negative","Negative",467
+"468","Northern Raccoon","Juvenile","VENTURA","Wet",37.35,4.55,58.1,"Negative","Negative",468
+"469","Northern Raccoon","Adult","VENTURA","Dry",9.59,22.66,67.75,"Negative","Positive",469
+"470","Northern Raccoon","Adult","LOS ANGELES","Wet",79.14,17.07,3.78,"Negative",NA,470
+"471","Northern Raccoon","Juvenile","LOS ANGELES","Wet",42.45,36.51,21.04,"Negative",NA,471
+"472","Northern Raccoon","Adult","LOS ANGELES","Wet",97.26,2.25,0.49,"Negative","Negative",472
+"473","Northern Raccoon",NA,"LOS ANGELES","Wet",99.87,0.09,0.04,"Positive","Positive",473
+"474","Northern Raccoon","Adult","LOS ANGELES","Wet",63.37,26.84,9.79,"Positive","Positive",474
+"475","Northern Raccoon","Adult","LOS ANGELES","Dry",97.57,1.94,0.5,"Positive",NA,475
+"476","Northern Raccoon","Adult","LOS ANGELES","Wet",99.23,0.77,0,"Positive",NA,476
+"477","Northern Raccoon","Adult","LOS ANGELES","Dry",99.59,0.09,0.32,"Positive",NA,477
+"478","Northern Raccoon","Adult","LOS ANGELES","Dry",99.59,0.09,0.32,"Positive",NA,478
+"479","Northern Raccoon","Adult","LOS ANGELES","Wet",85.38,9.67,4.95,"Positive",NA,479
+"480","Northern Raccoon","Adult","LOS ANGELES","Wet",94.02,2.43,3.55,"Positive","Positive",480
+"481","Northern Raccoon","Adult","LOS ANGELES","Wet",92.81,6.56,0.63,"Positive","Positive",481
+"482","Northern Raccoon","Adult","LOS ANGELES","Wet",76.77,5.04,18.19,"Positive",NA,482
+"483","Northern Raccoon",NA,"LOS ANGELES","Wet",64.97,27.42,7.61,"Positive",NA,483
+"484","Northern Raccoon","Adult","LOS ANGELES","Wet",94.43,5.3,0.27,"Positive","Positive",484
+"485","Northern Raccoon","Juvenile","LOS ANGELES","Dry",44.58,35.23,20.19,"Positive","Positive",485
+"486","Northern Raccoon","Adult","LOS ANGELES","Dry",74.93,16.17,8.89,"Positive","Positive",486
+"487","Northern Raccoon","Adult","LOS ANGELES","Wet",96.4,3.6,0,"Suspect",NA,487
+"488","Northern Raccoon","Juvenile","LOS ANGELES","Wet",99.59,0.09,0.32,NA,"Positive",488
+"489","Northern Raccoon",NA,"LOS ANGELES","Dry",99.59,0.09,0.32,NA,"Positive",489
+"490","Northern Raccoon",NA,"LOS ANGELES","Wet",99.59,0.09,0.32,NA,"Negative",490
+"491","Northern Raccoon","Adult","LOS ANGELES","Dry",50.61,6.75,42.64,NA,"Negative",491
+"492","Northern Raccoon","Juvenile","LOS ANGELES","Wet",66.52,26.92,6.56,NA,"Negative",492
+"493","Northern Raccoon",NA,"LOS ANGELES","Dry",99.32,0.41,0.27,NA,"Negative",493
+"494","Northern Raccoon","Juvenile","VENTURA","Wet",9.59,22.66,67.75,NA,"Negative",494
+"495","Northern Raccoon","Adult","VENTURA","Wet",9.59,22.66,67.75,NA,"Negative",495
+"496","Northern Raccoon","Adult","VENTURA","Dry",6.1,27.77,66.13,NA,"Negative",496
+"497","Striped Skunk","Adult","LOS ANGELES","Wet",41.55,0,58.45,"Negative","Negative",497
+"498","Striped Skunk",NA,"LOS ANGELES","Dry",41.55,0,58.45,"Negative","Negative",498
+"499","Striped Skunk","Adult","LOS ANGELES","Dry",41.55,0,58.45,"Negative",NA,499
+"500","Striped Skunk","Juvenile","LOS ANGELES","Dry",41.55,0,58.45,"Negative","Negative",500
+"501","Striped Skunk","Adult","LOS ANGELES","Wet",76.13,0.14,23.74,"Negative","Positive",501
+"502","Striped Skunk","Adult","LOS ANGELES","Dry",34.33,3.86,61.82,"Negative",NA,502
+"503","Striped Skunk","Juvenile","LOS ANGELES","Dry",91.72,1.35,6.93,"Negative",NA,503
+"504","Striped Skunk","Juvenile","LOS ANGELES","Dry",50.76,0,49.24,"Negative","Negative",504
+"505","Striped Skunk","Juvenile","LOS ANGELES","Dry",34.33,3.86,61.82,"Negative",NA,505
+"506","Striped Skunk","Adult","VENTURA","Wet",60.49,0,39.51,"Negative",NA,506
+"507","Striped Skunk","Adult","LOS ANGELES","Wet",89.72,1.39,8.89,"Negative","Negative",507
+"508","Striped Skunk","Adult","LOS ANGELES","Wet",92.17,0.09,7.74,"Negative","Negative",508
+"509","Striped Skunk","Juvenile","LOS ANGELES","Wet",26.91,0,73.09,"Negative",NA,509
+"510","Striped Skunk","Adult","LOS ANGELES","Wet",79.73,11.91,8.36,"Negative",NA,510
+"511","Striped Skunk","Adult","LOS ANGELES","Wet",75.64,0,24.36,"Negative",NA,511
+"512","Striped Skunk","Adult","LOS ANGELES","Wet",94.1,0,5.9,"Negative","Negative",512
+"513","Striped Skunk","Adult","LOS ANGELES","Dry",41.55,0,58.45,"Negative",NA,513
+"514","Striped Skunk","Juvenile","LOS ANGELES","Dry",91.36,0,8.64,"Negative",NA,514
+"515","Striped Skunk","Adult","LOS ANGELES","Dry",83.07,0.09,16.84,"Negative",NA,515
+"516","Striped Skunk","Adult","LOS ANGELES","Dry",41.55,0,58.45,"Negative",NA,516
+"517","Striped Skunk","Juvenile","LOS ANGELES","Dry",41.55,0,58.45,"Negative",NA,517
+"518","Striped Skunk","Adult","LOS ANGELES","Dry",79.72,0,20.28,"Negative","Negative",518
+"519","Striped Skunk","Juvenile","LOS ANGELES","Dry",41.55,0,58.45,"Negative","Negative",519
+"520","Striped Skunk","Juvenile","LOS ANGELES","Dry",41.55,0,58.45,"Negative",NA,520
+"521","Striped Skunk","Juvenile","LOS ANGELES","Dry",41.55,0,58.45,"Negative",NA,521
+"522","Striped Skunk",NA,"LOS ANGELES","Dry",10.77,0,89.23,"Negative","Negative",522
+"523","Striped Skunk","Juvenile","LOS ANGELES","Dry",29.46,19.21,51.33,"Negative",NA,523
+"524","Striped Skunk","Juvenile","LOS ANGELES","Dry",29.46,19.21,51.33,"Negative","Negative",524
+"525","Striped Skunk","Adult","LOS ANGELES","Wet",72.34,0.22,27.44,"Positive","Positive",525
+"526","Striped Skunk","Adult","LOS ANGELES","Wet",95.95,0.54,3.51,"Positive",NA,526
+"527","Striped Skunk",NA,"LOS ANGELES","Dry",95.95,0.54,3.51,"Positive",NA,527
+"528","Striped Skunk","Adult","LOS ANGELES","Wet",90.97,0.04,8.99,"Positive",NA,528
+"529","Striped Skunk",NA,"LOS ANGELES","Dry",41.55,0,58.45,"Positive","Positive",529
+"530","Striped Skunk","Adult","LOS ANGELES","Dry",41.55,0,58.45,"Suspect","Positive",530
+"531","Striped Skunk",NA,"LOS ANGELES","Dry",41.55,0,58.45,NA,"Negative",531
+"532","Striped Skunk","Adult","LOS ANGELES","Dry",63.77,6.26,29.97,NA,"Negative",532
+"533","Striped Skunk",NA,"LOS ANGELES","Dry",78.7,0,21.3,NA,"Positive",533
+"534","Striped Skunk",NA,"LOS ANGELES","Wet",81.62,0.49,17.89,NA,"Positive",534
+"535","Striped Skunk","Adult","VENTURA","Dry",33.96,16.3,49.74,NA,"Negative",535
+"536","Striped Skunk","Juvenile","LOS ANGELES","Dry",29.46,19.21,51.33,NA,"Negative",536
+"537","Virginia Opossum","Juvenile","LOS ANGELES","Wet",80.61,13.55,5.83,"Negative",NA,537
+"538","Virginia Opossum","Juvenile","LOS ANGELES","Wet",80.61,13.55,5.83,"Negative",NA,538
+"539","Virginia Opossum","Adult","LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,539
+"540","Virginia Opossum",NA,"LOS ANGELES","Dry",84.91,7.95,7.14,"Negative",NA,540
+"541","Virginia Opossum",NA,"LOS ANGELES","Dry",100,0,0,"Negative",NA,541
+"542","Virginia Opossum",NA,"LOS ANGELES","Wet",84.91,7.95,7.14,"Negative",NA,542
+"543","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Negative",543
+"544","Virginia Opossum","Adult","LOS ANGELES","Dry",84.91,7.95,7.14,"Negative",NA,544
+"545","Virginia Opossum","Adult","LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,545
+"546","Virginia Opossum","Adult","LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,546
+"547","Virginia Opossum",NA,"LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,547
+"548","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,548
+"549","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Negative",549
+"550","Virginia Opossum","Adult","ORANGE","Dry",95.51,3.68,0.81,"Negative",NA,550
+"551","Virginia Opossum","Juvenile","ORANGE","Dry",95.51,3.68,0.81,"Negative",NA,551
+"552","Virginia Opossum","Adult","SAN BERNARDINO","Dry",81.37,10.98,7.65,"Negative",NA,552
+"553","Virginia Opossum","Adult","LOS ANGELES","Dry",84.91,7.95,7.14,"Negative",NA,553
+"554","Virginia Opossum","Adult","LOS ANGELES","Dry",84.91,7.95,7.14,"Negative",NA,554
+"555","Virginia Opossum","Adult","ORANGE","Wet",81.1,18.72,0.18,"Negative","Negative",555
+"556","Virginia Opossum","Juvenile","LOS ANGELES","Dry",84.91,7.95,7.14,"Negative",NA,556
+"557","Virginia Opossum","Adult","LOS ANGELES","Dry",84.91,7.95,7.14,"Negative",NA,557
+"558","Virginia Opossum","Juvenile","LOS ANGELES","Dry",84.91,7.95,7.14,"Negative",NA,558
+"559","Virginia Opossum",NA,"LOS ANGELES","Dry",100,0,0,"Negative",NA,559
+"560","Virginia Opossum","Adult","LOS ANGELES","Dry",84.91,7.95,7.14,"Negative",NA,560
+"561","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,561
+"562","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,562
+"563","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,563
+"564","Virginia Opossum","Adult","LOS ANGELES","Dry",77.23,20.25,2.52,"Negative","Negative",564
+"565","Virginia Opossum","Adult","LOS ANGELES","Dry",99.91,0.09,0,"Negative",NA,565
+"566","Virginia Opossum","Adult","LOS ANGELES","Dry",93.98,5.75,0.27,"Negative","Negative",566
+"567","Virginia Opossum","Adult","LOS ANGELES","Wet",13.66,25.43,60.92,"Negative","Negative",567
+"568","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",568
+"569","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",569
+"570","Virginia Opossum","Adult","LOS ANGELES","Wet",99.64,0,0.36,"Negative","Negative",570
+"571","Virginia Opossum","Juvenile","LOS ANGELES","Wet",98.74,0.9,0.36,"Negative",NA,571
+"572","Virginia Opossum","Adult","LOS ANGELES","Wet",98.74,1.26,0,"Negative","Negative",572
+"573","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,573
+"574","Virginia Opossum","Adult","LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,574
+"575","Virginia Opossum","Adult","LOS ANGELES","Wet",98.83,1.17,0,"Negative","Negative",575
+"576","Virginia Opossum","Adult","LOS ANGELES","Wet",97.58,2.33,0.09,"Negative","Positive",576
+"577","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,577
+"578","Virginia Opossum","Adult","LOS ANGELES","Wet",97.48,2.52,0,"Negative","Negative",578
+"579","Virginia Opossum","Adult","LOS ANGELES","Wet",96.5,3.5,0,"Negative","Negative",579
+"580","Virginia Opossum","Adult","LOS ANGELES","Dry",63.76,22.21,14.03,"Negative",NA,580
+"581","Virginia Opossum","Juvenile","LOS ANGELES","Wet",97.93,0.54,1.53,"Negative",NA,581
+"582","Virginia Opossum","Adult","LOS ANGELES","Wet",98.92,1.08,0,"Negative",NA,582
+"583","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Negative",583
+"584","Virginia Opossum","Adult","LOS ANGELES","Dry",99.37,0.63,0,"Negative","Negative",584
+"585","Virginia Opossum","Adult","LOS ANGELES","Wet",58.11,19.1,22.79,"Negative","Positive",585
+"586","Virginia Opossum","Adult","LOS ANGELES","Wet",99.37,0.63,0,"Negative","Negative",586
+"587","Virginia Opossum","Juvenile","LOS ANGELES","Wet",73.41,19.23,7.37,"Negative",NA,587
+"588","Virginia Opossum","Adult","LOS ANGELES","Wet",99.82,0.18,0,"Negative","Negative",588
+"589","Virginia Opossum","Adult","VENTURA","Wet",88.31,6.92,4.77,"Negative","Negative",589
+"590","Virginia Opossum","Juvenile","LOS ANGELES","Wet",99.28,0.27,0.45,"Negative","Negative",590
+"591","Virginia Opossum","Adult","LOS ANGELES","Wet",99.55,0.45,0,"Negative","Negative",591
+"592","Virginia Opossum","Adult","LOS ANGELES","Dry",95.86,4.14,0,"Negative","Negative",592
+"593","Virginia Opossum",NA,"LOS ANGELES","Wet",99.91,0.09,0,"Negative","Negative",593
+"594","Virginia Opossum","Adult","VENTURA","Wet",95.32,4.68,0,"Negative",NA,594
+"595","Virginia Opossum","Adult","LOS ANGELES","Dry",64.23,21.62,14.14,"Negative",NA,595
+"596","Virginia Opossum","Adult","LOS ANGELES","Dry",99.91,0.09,0,"Negative","Positive",596
+"597","Virginia Opossum","Adult","VENTURA","Wet",81.46,17.01,1.53,"Negative","Negative",597
+"598","Virginia Opossum","Juvenile","LOS ANGELES","Dry",80.42,4.69,14.89,"Negative",NA,598
+"599","Virginia Opossum","Adult","LOS ANGELES","Dry",93.62,4.14,2.25,"Negative",NA,599
+"600","Virginia Opossum","Adult","LOS ANGELES","Wet",99.91,0.09,0,"Negative",NA,600
+"601","Virginia Opossum","Adult","LOS ANGELES","Wet",98.02,1.98,0,"Negative",NA,601
+"602","Virginia Opossum","Adult","VENTURA","Dry",31.78,14.81,53.41,"Negative","Negative",602
+"603","Virginia Opossum","Adult","LOS ANGELES","Dry",97.21,2.79,0,"Negative","Negative",603
+"604","Virginia Opossum","Adult","LOS ANGELES","Dry",92.07,7.48,0.45,"Negative",NA,604
+"605","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Negative",605
+"606","Virginia Opossum","Juvenile","LOS ANGELES","Dry",100,0,0,"Negative",NA,606
+"607","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,607
+"608","Virginia Opossum","Adult","LOS ANGELES","Wet",98.02,1.98,0,"Negative",NA,608
+"609","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,609
+"610","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,610
+"611","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",611
+"612","Virginia Opossum","Juvenile","LOS ANGELES","Wet",98.83,1.17,0,"Negative","Negative",612
+"613","Virginia Opossum","Juvenile","LOS ANGELES","Wet",100,0,0,"Negative","Negative",613
+"614","Virginia Opossum","Juvenile","LOS ANGELES","Wet",100,0,0,"Negative","Negative",614
+"615","Virginia Opossum","Juvenile","LOS ANGELES","Wet",100,0,0,"Negative","Negative",615
+"616","Virginia Opossum","Juvenile","LOS ANGELES","Wet",99.55,0.45,0,"Negative","Negative",616
+"617","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",617
+"618","Virginia Opossum","Juvenile","LOS ANGELES","Wet",NA,NA,NA,"Negative",NA,618
+"619","Virginia Opossum","Adult","LOS ANGELES","Dry",97.75,2.25,0,"Negative","Negative",619
+"620","Virginia Opossum","Adult","LOS ANGELES","Dry",98.46,1.08,0.45,"Negative","Negative",620
+"621","Virginia Opossum","Adult","LOS ANGELES","Dry",98.74,1.26,0,"Negative",NA,621
+"622","Virginia Opossum","Adult","LOS ANGELES","Dry",99.19,0.81,0,"Negative","Negative",622
+"623","Virginia Opossum","Adult","LOS ANGELES","Dry",97.03,2.97,0,"Negative","Negative",623
+"624","Virginia Opossum","Adult","LOS ANGELES","Dry",98.55,1.36,0.09,"Negative","Negative",624
+"625","Virginia Opossum","Adult","LOS ANGELES","Dry",NA,NA,NA,"Negative",NA,625
+"626","Virginia Opossum","Adult","LOS ANGELES","Dry",99.91,0.09,0,"Negative",NA,626
+"627","Virginia Opossum","Adult","LOS ANGELES","Dry",99.37,0.63,0,"Negative",NA,627
+"628","Virginia Opossum","Juvenile","LOS ANGELES","Dry",4.05,11.52,84.43,"Negative",NA,628
+"629","Virginia Opossum","Adult","LOS ANGELES","Wet",90.84,8.98,0.18,"Negative",NA,629
+"630","Virginia Opossum","Adult","LOS ANGELES","Wet",93.95,5.6,0.45,"Negative",NA,630
+"631","Virginia Opossum","Adult","LOS ANGELES","Wet",93.78,6.22,0,"Negative","Negative",631
+"632","Virginia Opossum","Adult","LOS ANGELES","Wet",98.19,1.81,0,"Negative","Negative",632
+"633","Virginia Opossum","Adult","LOS ANGELES","Wet",99.55,0.45,0,"Negative",NA,633
+"634","Virginia Opossum","Adult","LOS ANGELES","Wet",98.74,1.26,0,"Negative",NA,634
+"635","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative",NA,635
+"636","Virginia Opossum","Adult","LOS ANGELES","Wet",99.82,0.18,0,"Negative",NA,636
+"637","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",637
+"638","Virginia Opossum","Adult","LOS ANGELES","Wet",99.37,0.63,0,"Negative",NA,638
+"639","Virginia Opossum","Juvenile","LOS ANGELES","Wet",100,0,0,"Negative",NA,639
+"640","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,"Negative","Negative",640
+"641","Virginia Opossum","Adult","LOS ANGELES","Wet",97.75,1.98,0.27,"Negative",NA,641
+"642","Virginia Opossum","Adult","LOS ANGELES","Wet",93.78,6.13,0.09,"Negative",NA,642
+"643","Virginia Opossum","Juvenile","LOS ANGELES","Dry",89.43,10.04,0.54,"Negative",NA,643
+"644","Virginia Opossum","Adult","LOS ANGELES","Dry",96.3,2.89,0.81,"Negative","Negative",644
+"645","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative","Negative",645
+"646","Virginia Opossum","Adult","LOS ANGELES","Dry",99.64,0.36,0,"Negative",NA,646
+"647","Virginia Opossum","Adult","LOS ANGELES","Dry",100,0,0,"Negative",NA,647
+"648","Virginia Opossum","Adult","LOS ANGELES","Wet",99.28,0.72,0,"Negative",NA,648
+"649","Virginia Opossum","Adult","LOS ANGELES","Wet",99.28,0.72,0,"Negative",NA,649
+"650","Virginia Opossum",NA,"LOS ANGELES","Wet",98.74,1.26,0,"Negative",NA,650
+"651","Virginia Opossum",NA,"LOS ANGELES","Wet",99.01,0.99,0,"Negative",NA,651
+"652","Virginia Opossum",NA,"LOS ANGELES","Wet",90.8,8.57,0.63,"Negative",NA,652
+"653","Virginia Opossum",NA,"VENTURA","Wet",97.39,1.98,0.63,"Negative",NA,653
+"654","Virginia Opossum","Adult","LOS ANGELES","Dry",92.16,7.75,0.09,"Negative",NA,654
+"655","Virginia Opossum","Juvenile","VENTURA","Dry",31.74,5.24,63.02,"Negative","Negative",655
+"656","Virginia Opossum","Adult","VENTURA","Dry",21.08,4.26,74.66,"Negative","Negative",656
+"657","Virginia Opossum","Juvenile","VENTURA","Dry",31.74,5.24,63.02,"Negative","Negative",657
+"658","Virginia Opossum","Adult","VENTURA","Wet",6.41,15.8,77.79,"Negative","Negative",658
+"659","Virginia Opossum","Adult","VENTURA","Wet",6.41,15.8,77.79,"Negative","Negative",659
+"660","Virginia Opossum","Adult","VENTURA","Wet",20.42,0.47,79.11,"Negative","Negative",660
+"661","Virginia Opossum","Adult","VENTURA","Dry",6.41,15.8,77.79,"Negative","Negative",661
+"662","Virginia Opossum","Adult","VENTURA","Wet",70.91,3.05,26.04,"Negative","Negative",662
+"663","Virginia Opossum","Juvenile","VENTURA","Dry",70.91,3.05,26.04,"Negative","Negative",663
+"664","Virginia Opossum","Juvenile","VENTURA","Dry",70.91,3.05,26.04,"Negative","Negative",664
+"665","Virginia Opossum","Adult","VENTURA","Wet",68.08,9.35,22.57,"Negative",NA,665
+"666","Virginia Opossum","Adult","VENTURA","Wet",68.08,9.35,22.57,"Negative",NA,666
+"667","Virginia Opossum","Adult","LOS ANGELES","Wet",78.87,21.13,0,"Positive","Positive",667
+"668","Virginia Opossum","Adult","LOS ANGELES","Wet",96.23,2.79,0.99,"Suspect",NA,668
+"669","Virginia Opossum","Juvenile","LOS ANGELES","Wet",80.61,13.55,5.83,NA,"Negative",669
+"670","Virginia Opossum",NA,"LOS ANGELES","Wet",100,0,0,NA,"Negative",670
+"671","Virginia Opossum","Adult","LOS ANGELES","Dry",88.43,11.57,0,NA,"Negative",671
+"672","Virginia Opossum","Adult","LOS ANGELES","Dry",98.46,0.81,0.72,NA,"Negative",672
+"673","Virginia Opossum","Adult","LOS ANGELES","Dry",93.98,4.13,1.89,NA,"Negative",673
+"674","Virginia Opossum","Adult","LOS ANGELES","Dry",98.02,1.98,0,NA,"Negative",674
+"675","Virginia Opossum","Adult","LOS ANGELES","Dry",95.22,3.16,1.62,NA,"Negative",675
+"676","Virginia Opossum","Adult","LOS ANGELES","Wet",95.86,4.14,0,NA,"Negative",676
+"677","Virginia Opossum","Adult","LOS ANGELES","Wet",95.94,3.79,0.27,NA,"Negative",677
+"678","Virginia Opossum","Adult","LOS ANGELES","Wet",NA,NA,NA,NA,"Negative",678
+"679","Virginia Opossum","Adult","LOS ANGELES","Wet",98.83,1.17,0,NA,"Negative",679
+"680","Virginia Opossum","Adult","LOS ANGELES","Wet",99.91,0.09,0,NA,"Negative",680
+"681","Virginia Opossum","Adult","LOS ANGELES","Wet",97.84,2.16,0,NA,"Negative",681
+"682","Virginia Opossum","Adult","LOS ANGELES","Wet",7.86,23.04,69.11,NA,"Negative",682
+"683","Virginia Opossum","Adult","LOS ANGELES","Dry",99.28,0.72,0,NA,"Negative",683
+"684","Virginia Opossum","Adult","LOS ANGELES","Wet",68.47,24.95,6.58,NA,"Negative",684
+"685","Virginia Opossum","Adult","LOS ANGELES","Dry",94.87,5.04,0.09,NA,"Negative",685
+"686","Virginia Opossum","Adult","LOS ANGELES","Dry",98.38,1.62,0,NA,"Negative",686
+"687","Virginia Opossum","Adult","LOS ANGELES","Dry",99.19,0.81,0,NA,"Negative",687
+"688","Virginia Opossum","Adult","LOS ANGELES","Wet",99.64,0,0.36,NA,"Negative",688
+"689","Virginia Opossum","Adult","LOS ANGELES","Wet",99.73,0.27,0,NA,"Negative",689
+"690","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,NA,"Negative",690
+"691","Virginia Opossum","Adult","LOS ANGELES","Wet",84.8,6.38,8.81,NA,"Negative",691
+"692","Virginia Opossum","Adult","LOS ANGELES","Wet",100,0,0,NA,"Negative",692
+"693","Virginia Opossum","Adult","LOS ANGELES","Wet",87.83,11.54,0.63,NA,"Negative",693
+"694","Virginia Opossum","Adult","LOS ANGELES","Wet",99.01,0.99,0,NA,"Positive",694
+"695","Virginia Opossum",NA,"LOS ANGELES","Dry",99.55,0.27,0.18,NA,"Negative",695
+"696","Virginia Opossum","Adult","LOS ANGELES","Dry",4.59,18.92,76.49,NA,"Negative",696
+"697","Virginia Opossum","Adult","LOS ANGELES","Wet",99.82,0.18,0,NA,"Negative",697
+"698","Virginia Opossum","Adult","LOS ANGELES","Wet",99.37,0.63,0,NA,"Negative",698
+"699","Virginia Opossum","Adult","LOS ANGELES","Wet",90.03,9.34,0.63,NA,"Negative",699
+"700","Virginia Opossum","Adult","VENTURA","Dry",99.73,0.27,0,NA,"Negative",700
+"701","Virginia Opossum","Adult","LOS ANGELES","Dry",95.94,3.79,0.27,NA,"Negative",701
+"702","Virginia Opossum","Adult","LOS ANGELES","Dry",99.55,0.45,0,NA,"Negative",702
+"703","Virginia Opossum","Adult","LOS ANGELES","Dry",85.55,14.45,0,NA,"Negative",703
+"704","Virginia Opossum","Juvenile","LOS ANGELES","Dry",99.46,0.54,0,NA,"Negative",704
+"705","Virginia Opossum","Adult","LOS ANGELES","Dry",43.67,21.49,34.84,NA,"Negative",705
+"706","Virginia Opossum","Adult","VENTURA","Wet",6.41,15.8,77.79,NA,"Negative",706
+"707","Virginia Opossum","Juvenile","VENTURA","Wet",4.89,21.14,73.97,NA,"Negative",707

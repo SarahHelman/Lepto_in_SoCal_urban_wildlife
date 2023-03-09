@@ -1,0 +1,253 @@
+ID,Species,Age.Class,County,Season,PCR,MAT
+1,Boar,NA,NAPA,NA,Negative,Negative
+2,Boar,NA,NAPA,NA,Negative,Negative
+3,Boar,NA,NAPA,NA,Negative,Positive
+4,Boar,NA,NAPA,NA,Negative,Positive
+5,Boar,NA,NAPA,NA,Negative,Negative
+6,Boar,NA,NAPA,NA,Negative,Negative
+7,Boar,NA,NAPA,NA,Negative,Negative
+8,Boar,NA,NAPA,NA,Negative,Negative
+9,Boar,NA,NAPA,NA,Negative,Negative
+10,Boar,NA,NAPA,NA,Negative,Negative
+11,Boar,NA,NAPA,NA,Negative,Negative
+12,Boar,NA,NAPA,NA,Negative,Negative
+13,Boar,NA,NAPA,NA,Negative,Positive
+14,Boar,NA,NAPA,NA,Positive,Positive
+15,Boar,Adult,SAN LUIS OBISPO,Dry,NA,Negative
+16,Boar,Juvenile,SAN LUIS OBISPO,Dry,NA,Negative
+17,Boar,Juvenile,SAN LUIS OBISPO,Dry,NA,Negative
+18,Boar,Juvenile,SAN LUIS OBISPO,Dry,NA,Negative
+19,Boar,Juvenile,SAN LUIS OBISPO,Dry,NA,Negative
+20,Boar,Juvenile,SAN LUIS OBISPO,Dry,NA,Negative
+21,Boar,Juvenile,SAN LUIS OBISPO,Wet,NA,Negative
+22,Boar,Adult,SAN LUIS OBISPO,Dry,NA,Negative
+23,Boar,Adult,SAN LUIS OBISPO,Dry,NA,Negative
+24,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+25,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+26,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+27,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+28,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+29,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+30,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+31,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+32,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+33,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+34,Boar,Juvenile,SAN LUIS OBISPO,Wet,NA,Positive
+35,Boar,Adult,SAN LUIS OBISPO,NA,NA,Negative
+36,Boar,Juvenile,SAN LUIS OBISPO,NA,NA,Negative
+37,Boar,Adult,SAN LUIS OBISPO,NA,NA,Negative
+38,Boar,Adult,SAN LUIS OBISPO,NA,NA,Positive
+39,Boar,Juvenile,SAN LUIS OBISPO,NA,NA,Negative
+40,Boar,Adult,SAN LUIS OBISPO,NA,NA,Positive
+41,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+42,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+43,Boar,Juvenile,SAN LUIS OBISPO,Wet,NA,Negative
+44,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+45,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+46,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+47,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+48,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+49,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+50,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+51,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+52,Boar,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+53,Boar,Juvenile,SAN LUIS OBISPO,Wet,NA,Negative
+54,Boar,Juvenile,SAN LUIS OBISPO,Wet,NA,Negative
+55,Bobcat,NA,LOS ANGELES,Dry,Negative,Negative
+56,Bobcat,Adult,LOS ANGELES,Wet,NA,Negative
+57,Bobcat,Adult,VENTURA,Wet,NA,Negative
+58,Bobcat,Juvenile,VENTURA,Wet,NA,Negative
+59,Bobcat,Adult,VENTURA,Wet,NA,Negative
+60,Bobcat,Adult,MONTEREY,Dry,NA,Positive
+61,Bobcat,Adult,MONTEREY,Wet,NA,Positive
+62,Bobcat,Adult,MONTEREY,Wet,NA,Positive
+63,Bobcat,Juvenile,MONTEREY,Dry,NA,Positive
+64,Bobcat,Adult,MONTEREY,Wet,NA,Positive
+65,Bobcat,NA,SANTA BARBARA,Wet,NA,Negative
+66,Coyote,Adult,SANTA BARBARA,Wet,Negative,NA
+67,Coyote,Adult,SANTA BARBARA,Dry,Negative,Negative
+68,Coyote,Adult,MONTEREY,Wet,NA,Positive
+69,Coyote,Adult,MONTEREY,Dry,NA,Negative
+70,Coyote,Adult,MONTEREY,Wet,NA,Positive
+71,Coyote,Juvenile,MONTEREY,Dry,NA,Negative
+72,Coyote,Juvenile,MONTEREY,Dry,NA,Negative
+73,Coyote,Juvenile,MONTEREY,Dry,NA,Negative
+74,Coyote,Adult,MONTEREY,Dry,NA,Negative
+75,Coyote,NA,SAN LUIS OBISPO,NA,NA,Negative
+76,Coyote,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+77,Coyote,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+78,Coyote,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+79,Coyote,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+80,Coyote,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+81,Coyote,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+82,Coyote,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+83,Coyote,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+84,Coyote,Juvenile,SANTA BARBARA,Dry,NA,Negative
+85,Coyote,NA,SANTA BARBARA,Dry,NA,Negative
+86,Desert Cottontail,Adult,LOS ANGELES,Dry,Negative,Negative
+87,Desert Cottontail,Adult,VENTURA,Dry,Negative,Negative
+88,Desert Cottontail,Adult,LOS ANGELES,Dry,Negative,Negative
+89,Desert Cottontail,Adult,LOS ANGELES,Dry,Negative,Negative
+90,Desert Cottontail,Adult,VENTURA,Dry,Negative,Positive
+91,Desert Cottontail,Adult,VENTURA,Wet,Negative,Negative
+92,Desert Cottontail,Adult,VENTURA,Wet,Negative,Negative
+93,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,NA
+94,Desert Cottontail,Adult,VENTURA,Wet,Negative,Positive
+95,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,NA
+96,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,NA
+97,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,Negative
+98,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,NA
+99,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,Negative
+100,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,Negative
+101,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,Negative
+102,Desert Cottontail,Adult,VENTURA,Wet,Negative,NA
+103,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,Negative
+104,Desert Cottontail,Adult,LOS ANGELES,Wet,Negative,Negative
+105,Desert Cottontail,NA,LOS ANGELES,Wet,Negative,NA
+106,Desert Cottontail,Adult,LOS ANGELES,Dry,Negative,Negative
+107,Desert Cottontail,Adult,VENTURA,Dry,Negative,Negative
+108,Desert Cottontail,NA,LOS ANGELES,Dry,Negative,Negative
+109,Desert Cottontail,Adult,LOS ANGELES,Dry,Negative,NA
+110,Desert Cottontail,Adult,VENTURA,Dry,Negative,Negative
+111,Desert Cottontail,Adult,VENTURA,Dry,Negative,Negative
+112,Desert Cottontail,Adult,LOS ANGELES,Dry,Negative,NA
+113,Desert Cottontail,Adult,LOS ANGELES,Wet,NA,Negative
+114,Desert Cottontail,Adult,VENTURA,Wet,NA,Negative
+115,Desert Cottontail,Adult,LOS ANGELES,Wet,NA,Negative
+116,Desert Cottontail,Adult,VENTURA,Wet,NA,Negative
+117,Desert Cottontail,Adult,LOS ANGELES,Wet,NA,Negative
+118,Desert Cottontail,Adult,LOS ANGELES,Wet,NA,Negative
+119,Desert Cottontail,Adult,LOS ANGELES,Wet,NA,Negative
+120,Desert Cottontail,Adult,VENTURA,Dry,NA,Positive
+121,Desert Cottontail,Adult,VENTURA,Dry,NA,Negative
+122,Desert Cottontail,Adult,VENTURA,Dry,NA,Negative
+123,Desert Cottontail,Adult,LOS ANGELES,Dry,NA,Negative
+124,Gray Fox,Adult,LOS ANGELES,Wet,Negative,Negative
+125,Gray Fox,Adult,LOS ANGELES,Dry,Negative,NA
+126,Gray Fox,Adult,LOS ANGELES,Wet,Negative,NA
+127,Gray Fox,Juvenile,SANTA BARBARA,Wet,Negative,NA
+128,Gray Fox,Adult,VENTURA,Dry,Negative,NA
+129,Gray Fox,NA,LOS ANGELES,Wet,Negative,NA
+130,Gray Fox,Adult,LOS ANGELES,Wet,NA,Negative
+131,Gray Fox,Adult,MONTEREY,Wet,NA,Negative
+132,Gray Fox,Juvenile,MONTEREY,Dry,NA,Negative
+133,Ground Squirrel,Juvenile,LOS ANGELES,Dry,Negative,NA
+134,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+135,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+136,Ground Squirrel,Adult,LOS ANGELES,Wet,Negative,NA
+137,Ground Squirrel,Juvenile,LOS ANGELES,Dry,Negative,NA
+138,Ground Squirrel,Adult,LOS ANGELES,Wet,Negative,NA
+139,Ground Squirrel,Adult,LOS ANGELES,Wet,Negative,NA
+140,Ground Squirrel,Juvenile,LOS ANGELES,Dry,Negative,NA
+141,Ground Squirrel,Adult,LOS ANGELES,Wet,Negative,NA
+142,Ground Squirrel,NA,LOS ANGELES,Wet,Negative,NA
+143,Ground Squirrel,NA,LOS ANGELES,Dry,Negative,Negative
+144,Ground Squirrel,Adult,LOS ANGELES,Wet,Negative,Positive
+145,Ground Squirrel,Juvenile,LOS ANGELES,Dry,Negative,NA
+146,Ground Squirrel,Juvenile,VENTURA,Dry,Negative,NA
+147,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+148,Ground Squirrel,NA,LOS ANGELES,Wet,Negative,NA
+149,Ground Squirrel,Juvenile,LOS ANGELES,Wet,Negative,NA
+150,Ground Squirrel,Juvenile,LOS ANGELES,Wet,Negative,NA
+151,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+152,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+153,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+154,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+155,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+156,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+157,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+158,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+159,Ground Squirrel,Juvenile,LOS ANGELES,Dry,Negative,NA
+160,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+161,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+162,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+163,Ground Squirrel,Juvenile,LOS ANGELES,Dry,Negative,NA
+164,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+165,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+166,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+167,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+168,Ground Squirrel,Adult,LOS ANGELES,Dry,Negative,NA
+169,Ground Squirrel,NA,LOS ANGELES,Dry,NA,Negative
+170,Ground Squirrel,Adult,MONTEREY,Wet,NA,Positive
+171,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+172,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+173,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+174,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+175,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+176,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+177,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+178,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+179,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+180,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+181,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+182,Northern Raccoon,Adult,MONTEREY,Dry,NA,Negative
+183,Northern Raccoon,Juvenile,MONTEREY,Dry,NA,Negative
+184,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+185,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+186,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+187,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+188,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+189,Northern Raccoon,Juvenile,MONTEREY,Wet,NA,Negative
+190,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+191,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+192,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+193,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+194,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+195,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+196,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+197,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+198,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+199,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+200,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+201,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+202,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+203,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+204,Northern Raccoon,Adult,MONTEREY,Wet,NA,Positive
+205,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+206,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+207,Northern Raccoon,Adult,MONTEREY,Dry,NA,Negative
+208,Northern Raccoon,Adult,MONTEREY,Dry,NA,Positive
+209,Northern Raccoon,Adult,MONTEREY,Wet,NA,Negative
+210,Northern Raccoon,Adult,SAN LUIS OBISPO,Dry,NA,Negative
+211,Red Fox,Adult,MONTEREY,Wet,NA,Negative
+212,Red Fox,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+213,Red Fox,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+214,Red Fox,Adult,SAN LUIS OBISPO,Dry,NA,Positive
+215,Red Fox,Juvenile,SAN LUIS OBISPO,Dry,NA,Negative
+216,Striped Skunk,Adult,MONTEREY,Wet,NA,Negative
+217,Striped Skunk,Adult,MONTEREY,Wet,NA,Negative
+218,Striped Skunk,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+219,Striped Skunk,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+220,Striped Skunk,Adult,SAN LUIS OBISPO,Wet,NA,Positive
+221,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+222,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+223,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+224,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+225,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+226,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+227,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+228,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+229,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+230,Virginia Opossum,Adult,MONTEREY,Dry,NA,Negative
+231,Virginia Opossum,Adult,MONTEREY,Dry,NA,Negative
+232,Virginia Opossum,Adult,MONTEREY,Dry,NA,Negative
+233,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+234,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+235,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+236,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+237,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+238,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+239,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+240,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+241,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+242,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+243,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+244,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+245,Virginia Opossum,Adult,MONTEREY,Dry,NA,Positive
+246,Virginia Opossum,Adult,MONTEREY,Dry,NA,Negative
+247,Virginia Opossum,Adult,MONTEREY,Dry,NA,Positive
+248,Virginia Opossum,Adult,MONTEREY,Wet,NA,Negative
+249,Virginia Opossum,NA,SAN LUIS OBISPO,Wet,NA,Negative
+250,Virginia Opossum,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+251,Virginia Opossum,Adult,SAN LUIS OBISPO,Wet,NA,Negative
+252,Virginia Opossum,Adult,SAN LUIS OBISPO,Wet,NA,Negative
